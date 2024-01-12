@@ -1,0 +1,45 @@
+img {
+    width: 100%;
+}
+#rodape {
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    width: 100%;
+    margin-bottom: 0;
+    
+}
+
+#instruct {
+    color: black;
+}
+
+#title {
+    width: 100%;
+}
+
+#title button{
+    float: right;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#title h3{
+    float: left;
+    display: inline;
+}
+
+.instImg {
+    width: 45%;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
